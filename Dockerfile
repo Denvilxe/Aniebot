@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/shiwabot/Aniebot.git /root/userbot
+RUN git clone https://github.com/Denvilxe/Aniebot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
