@@ -83,7 +83,7 @@ async def amireallyalive(alive):
         Anie_caption += f"**➬ Aniebot :**`{Anieversion}`\n"
         Anie_caption += f"**➬ Uptime :** `{uptime}\n`"
         Anie_caption += f"**➬ Sudo       : `{sudou}`**\n"
-        Anie_caption += f"**➬ Channel   : [Join](https://t.me/Aniebotsupports)**\n"
+        Anie_caption += f"**➬ Channel   : [Join](https://t.me/Aniebots)**\n"
         Anie_caption += f"**➬ Master:** {mention}\n"
 
         await alive.client.send_file(
